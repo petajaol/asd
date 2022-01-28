@@ -1,3 +1,6 @@
-# halytysjarjestelma-projekti
+# Hälytysjärjestelmä
 
-[embed]https://www.dropbox.com/s/9qyd0xzbwttpcxw/projektiposteri_FINAL.pdf [/embed]
+https://www.students.oamk.fi/~t1peol01/projektiposteri.pdf
+https://www.students.oamk.fi/~t1peol01/halytysjarjestelma_flowchart.png
+
+
